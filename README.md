@@ -5,5 +5,6 @@
 
 详见：[受不了后台窗口的一片惨白，写了个脚本让Win10非活动窗口标题栏也换上颜色](https://zhuanlan.zhihu.com/p/21477137)。
 
+![](Change-Win10TitleBar/Picture_2016-10-21_1-23-58.png)
 
-！[](hange-Win10TitleBar/Picture_2016-10-21_1-23-58.png)
+
