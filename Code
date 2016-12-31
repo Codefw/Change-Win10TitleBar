@@ -7,5 +7,3 @@ def regcolorchange():
     #赋给 AccentColorInactive ，修改后台窗口颜色
     winreg.SetValueEx(key,"AccentColorInactive",0,type,value)
 regcolorchange()
-
-print(reload)
